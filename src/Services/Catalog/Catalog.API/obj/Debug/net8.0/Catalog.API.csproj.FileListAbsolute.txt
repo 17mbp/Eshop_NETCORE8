@@ -5,8 +5,13 @@ C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.runtimeconfig.json
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.API.pdb
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Carter.dll
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Mapster.dll
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Mapster.Core.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\BuildingBlocks.pdb
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
