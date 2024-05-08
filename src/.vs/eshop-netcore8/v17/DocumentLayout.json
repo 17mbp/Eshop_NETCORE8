@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbycategory\\getproductbycategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\manue\\source\\repos\\v22\\eshop_netcore8\\src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B9A2A2B-4E3E-463A-B409-5C88E52ACC77}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:21:42.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:12:06.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBIAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:48:15.438Z"
+              "WhenOpened": "2024-05-08T00:19:56.863Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "DocumentIndex": 1,
+              "Title": "GetProductByCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:44:41.235Z"
+              "WhenOpened": "2024-05-08T00:15:15.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetProductByCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:39:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T23:13:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:12:10.728Z",
+              "WhenOpened": "2024-05-07T23:31:08.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Manue\\source\\repos\\v22\\Eshop_NETCORE8\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:11:41.646Z",
               "EditorCaption": ""
             }
           ]

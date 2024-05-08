@@ -133,6 +133,10 @@
               "target": "Package",
               "version": "[7.4.0, )"
             },
+            "Marten": {
+              "target": "Package",
+              "version": "[7.10.1, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.6, )"
