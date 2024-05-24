@@ -1,5 +1,4 @@
 ﻿namespace Catalog.API.Products.GetProductByCategory;
-using Catalog.API.Products.CreateProduct;
 public record GetProductByCategoryResponse(IEnumerable<Product> Products);
 public class GetProductByCategoryEndpoint: ICarterModule
 {
@@ -11,10 +10,10 @@ public class GetProductByCategoryEndpoint: ICarterModule
             var response = result.Adapt<GetProductByCategoryResponse>();
             return Results.Ok(response);
         })
-              .WithName("GetProductByCategory")
-            .Produces<GetProductByCategoryResponse>(StatusCodes.Status201Created)
-            .ProducesProblem(StatusCodes.Status400BadRequest)
-            .WithSummary("Get Product By Category")
-            .WithDescription("Get Product By Category");
+        .WithName("GetProductByCategory")
+        .Produces<GetProductByCategoryResponse>(StatusCodes.Status201Created)
+        .ProducesProblem(StatusCodes.Status400BadRequest)
+        .WithSummary("Get Product By Category")
+        .WithDescription("Get Product By Category");
     }
 }

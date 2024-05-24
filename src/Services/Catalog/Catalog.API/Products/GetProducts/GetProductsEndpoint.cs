@@ -1,6 +1,4 @@
-﻿//using Catalog.API.Products.CreateProduct;
-namespace Catalog.API.Products.GetProducts;
-//public record GetProductsRequest();
+﻿namespace Catalog.API.Products.GetProducts;
 public record GetProductsResponse(IEnumerable<Product> Products);
 public class GetProductsEndpoint : ICarterModule
 {
@@ -12,10 +10,10 @@ public class GetProductsEndpoint : ICarterModule
             var response = result.Adapt<GetProductsResponse>();
             return Results.Ok(response);
         })
-            .WithName("GetProducts")
-            .Produces<GetProductsResponse>(StatusCodes.Status201Created)
-            .ProducesProblem(StatusCodes.Status400BadRequest)
-            .WithSummary("Get products")
-            .WithDescription("Get product");
+        .WithName("GetProducts")
+        .Produces<GetProductsResponse>(StatusCodes.Status201Created)
+        .ProducesProblem(StatusCodes.Status400BadRequest)
+        .WithSummary("Get products")
+        .WithDescription("Get product");
     }
 }

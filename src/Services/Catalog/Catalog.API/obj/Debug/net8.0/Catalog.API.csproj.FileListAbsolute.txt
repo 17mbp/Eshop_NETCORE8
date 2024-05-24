@@ -8,6 +8,8 @@ C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Carter.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FastExpressionCompiler.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\JasperFx.CodeGeneration.dll
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\JasperFx.Core.dll
@@ -150,6 +152,7 @@ C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfoInputs.cache
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfo.cs
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
 C:\Users\Manue\source\repos\v22\Eshop_NETCORE8\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\staticwebassets.build.json
